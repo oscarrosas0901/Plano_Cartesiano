@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="qk4L9we42b03hxRsK34e" name="Página-1">
+        <mxGraphModel dx="668" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="372" y="30" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;fontColor=#F5F5F5;" edge="1" parent="1" source="3" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="C1- C2- C3- C4-Eje y-Eje x" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="348" y="180" width="168" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;fontColor=#F5F5F5;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="(x &amp;gt; 0) y (y &amp;gt; 0): C1 = punto en el primer cuadrante&lt;br&gt;&lt;br&gt;&lt;br&gt;(x &amp;lt; 0) y (y &amp;gt; 0): C2 = punto en el segundo cuadrante&lt;br&gt;&lt;br&gt;&lt;br&gt;(x &amp;lt; 0) y (y &amp;lt; 0): C3 = punto en el tercer cuadrante&lt;br&gt;&lt;br&gt;&lt;br&gt;(x &amp;gt; 0) y (y &amp;lt; 0): C4 = punto en el cuarto cuadrante&lt;br&gt;&lt;br&gt;&lt;div&gt;((x &amp;gt; 0 or x &amp;lt; 0) and (y == 0)) =&amp;nbsp;&lt;span&gt;Esta en el eje X&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;((y &amp;gt; 0 or y &amp;lt; 0) and (x == 0)) =&amp;nbsp;&lt;span&gt;Esta en el eje Y&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;((y == 0) and (x == 0)) =&amp;nbsp;&lt;span&gt;&amp;nbsp;Punto de origen&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="189" y="320" width="486" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;fontColor=#F5F5F5;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="C1- C2- C3-C4-Eje x- Eje y" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="372" y="650" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="372" y="780" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
